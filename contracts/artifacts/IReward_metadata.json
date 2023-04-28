@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_governAddr",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "_owner",
+						"type": "address"
+					}
+				],
+				"name": "initialize",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Factory_flattened.sol": "IReward"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Factory_flattened.sol": {
+			"keccak256": "0x270d42799aa0aac4939858fedbece61279da5527d7ab588ab3b7a253100f2e10",
+			"urls": [
+				"bzz-raw://492a4fbf64b58f0bfbe4bf23357558af69b37a0ce091a8a64b11113c30cea40f",
+				"dweb:/ipfs/Qma8iJXXuPKbww4MidLt5mjMkK9vdM8JWGE6Vf53kuXMmE"
+			]
+		}
+	},
+	"version": 1
+}

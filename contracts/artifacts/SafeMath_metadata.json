@@ -1,0 +1,48 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"author": "DODO Breeder",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeMath",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "Math operations with safety checks that revert on error",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/InitializableERC20.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/InitializableERC20.sol": {
+			"keccak256": "0x612796eb5dfa48bdff955b49b3f950f12b560dea2635b94fdb49060377d7c5d0",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://47f86c662e319b81362df3678a7814a6992f8c6b2cbd1e6a026197aabd5195a4",
+				"dweb:/ipfs/QmRghnz6U3AsgLCDqRRrbwME8aNc94SsYoxJxntdBakNUF"
+			]
+		}
+	},
+	"version": 1
+}
